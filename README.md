@@ -26,7 +26,7 @@ Telefon ve bilgisayar **aynı Wi-Fi'de** olmalı. Windows "Kai'nin özel ağlard
 - İzin vermek için telefon parmak izini ya da ekran kilidini sorar.
 - Telefona sadece ajanların durumu, izin istenen komut, Claude'un soruları ve plan yüzdesi gider. Dosyaların, sohbetlerin ve anahtarların bilgisayardan çıkmaz. Reklam, analiz, takip yok.
 
-Gerekenler: Android 11 veya üstü, bilgisayarda Kai 2.1.2 veya üstü.
+Gerekenler: Android 11 veya üstü, bilgisayarda Kai 2.1.4 veya üstü.
 
 ---
 
@@ -48,9 +48,9 @@ The phone and the computer must be on **the same Wi-Fi**. If Windows asks to let
 - Allowing needs the phone's fingerprint or screen lock.
 - Only the agents' state, the command asking for permission, Claude's questions and the plan percentage reach the phone. Your files, chats and keys never leave the computer. No ads, no analytics, no tracking.
 
-Requires Android 11 or later and Kai 2.1.2 or later on the computer.
+Requires Android 11 or later and Kai 2.1.4 or later on the computer.
 
 ---
 
 © Casper Technology — [casper-technology.vercel.app](https://casper-technology.vercel.app/). Kai, its mascots, the icon and the sounds are Casper Technology's.
-Parts of the Android code are © 2026 Rhytam Biswas ([Coucou for Android](https://github.com/Louis-CFM/coucou/tree/main/android)), used under the MIT License; the full notice is in the app (Settings › About) and in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Parts of the code are open source under the MIT License; the notices are in the app (Settings › About › Licences) and in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

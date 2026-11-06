@@ -1,10 +1,11 @@
 # Third-party notices
 
-Kai for Android is built on the Android code of Coucou for Android:
+Parts of Kai for Android's code are open source under the MIT License, whose notice is below.
 
 ```
 MIT License
 
+Copyright (c) 2026 Louis Raillé
 Copyright (c) 2026 Rhytam Biswas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -24,11 +25,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-The name "Coucou", the Mochi character, the icon and the sounds are (c) Louis Raillé and are not covered by this
-licence; see ../LICENSE-ASSETS.md and PERMISSION.md.
 ```
-
-Coucou's name, its Mochi character, its icon and its sounds are Louis Raillé's and are not used in Kai.
 
 The open-source libraries in the app are listed with their licences in the app (Settings › About › Licences).
